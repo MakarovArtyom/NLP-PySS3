@@ -8,4 +8,4 @@ Code for classification model is implementad according to official PySS3 documen
 
 ## Preliminary results
 
-<img src="https://github.com/MakarovArtyom/NLP-PySS3/blob/master/toxic-comments-classification/results/results.png" width=450, height=400 align="center"/>
+<img src="https://github.com/MakarovArtyom/NLP-PySS3/blob/master/toxic-comments-classification/results/results.png" width=450, height=550 align="center"/>
